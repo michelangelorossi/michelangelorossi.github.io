@@ -16,17 +16,16 @@ Education
 
 
 * Ph.D in Economics, Univerisdad Carlos III de Madrid, 2020 (expected)
-  * Visiting Ph.D. Student, 2018
-* M.A. in Economic Analysis, Univerisdad Carlos III de Madridy, 2016
+  * Visiting Ph.D. Student, Rotman School of Management - University of Toronto, 2018
+  
+* M.A. in Economic Analysis, Univerisdad Carlos III de Madrid, 2016
+
 * M.S. in Economics, University of Pisa and Sant'Anna School of Advanced Studies, 2014
+
 * B.S. in Economics, University of Pisa, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
