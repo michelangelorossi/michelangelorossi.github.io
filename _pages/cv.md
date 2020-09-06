@@ -13,9 +13,13 @@ You can find the pdf version of my CV here.
 
 Education
 ======
-* B.S. in Economics, , 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+
+* Ph.D in Economics, Univerisdad Carlos III de Madrid, 2020 (expected)
+  * Visiting Ph.D. Student, 2018
+* M.A. in Economic Analysis, Univerisdad Carlos III de Madridy, 2016
+* M.S. in Economics, University of Pisa and Sant'Anna School of Advanced Studies, 2014
+* B.S. in Economics, University of Pisa, 2012
 
 Work experience
 ======
