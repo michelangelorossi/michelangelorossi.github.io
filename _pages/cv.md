@@ -11,11 +11,17 @@ redirect_from:
 
 You can find the pdf version of my CV here.
 
+
+Current Position
+======
+
+* Assistant Professor (Maître de Conférences) in Digital Economics at Télécom Paris, Institut Polytechnique de Paris (2020 to present)
+ 
+ 
 Education
 ======
 
-
-* Ph.D in Economics, Univerisdad Carlos III de Madrid, 2020 (expected)
+* Ph.D in Economics, Univerisdad Carlos III de Madrid, 2020
   * Visiting Ph.D. Student, Rotman School of Management - University of Toronto, 2018
   
 * M.A. in Economic Analysis, Univerisdad Carlos III de Madrid, 2016
@@ -24,41 +30,65 @@ Education
 
 * B.S. in Economics, University of Pisa, 2012
 
-Work experience
+  
+Academic Experience and Short-Term Visits
 ======
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting Ph.D. Student, Rotman School of Management - University of Toronto, 2018
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* "Asymmetric Information and Review Systems: The Challenge of Digital Platforms". In <i>Economic Analysis of the Digital Revolution</i> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37 74 (2018). Madrid: Funcas
+
+
+Working Papers
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* "How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb", 2019, CESifo Working Paper
+
+* "Quality Disclosures and Disappointment: Evidence from the Academy Awards", 2019
+
+
+Invited Seminars
+======
+
+* <i>Academic Year 2019 - 2020</i> : DICE (Dusseldorf, Germany); LMU (Munich, Germany); Simon Business School (Rochester, USA); University of Toronto (Toronto, Canada); ITAM Business (Mexico City, Mexico); New Economic School (Moscow, Russia); Higher School of Economics (Moscow, Russia); University of Melbourne (Melbourne, Australia)
+ 
+ 
+Conferences and Workshops
+======
+
+* <i>Academic Year 2019 - 2020</i> : 46th Annual Conference of the European Association for Research in Industrial Economics (Barcelona, Spain); XXXIV Jornadas de Economía
+Industrial (Madrid, Spain); TSE DigitalWorkshop - ENTER Seminar (Toulouse, France); Cambridge Judge Business School Conference on "Unintended Consequences of Regulation"
+(Cambridge, UK) (canceled); 18th Annual International Industrial Organization Conference, <i>Rising Star Session</i> (Philadelphia, USA) (canceled)
+
+* <i>Academic Year 2018 - 2019</i> : 17th Annual International Industrial Organization Conference, <i>Rising Star Session</i> (Boston, USA); Doctoral Workshop on the Economics of Digitization (Louvain-la-Neuve, Belgium); CEPR/JIE School on Applied Industrial Organisation (Madrid, Spain)
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Teaching Assistant at Universidad Carlos III de Madrid:
+  * <i>Academic Year 2017 - 2018</i> : Microeconomics III (Ph.D.) , Game Theory (M.S.), Industrial Organization I (M.S), Microeconomics II (M.S.), Seminars in Competition Policy (M.S.), Industrial Organization (B.S.), Microeconomics (B.S.) 
+  * <i>Academic Year 2016 - 2017</i> : Microeconomics III (Ph.D.), Industrial Organization I (M.S.), Microeconomics (M.S.), Seminars in Competition Policy (M.S.), Microeconomics (B.S.)
+  * <i>Academic Year 2015 - 2016</i> : Microeconomics II (M.S.), Seminars in Competition Policy (M.S.), Game Theory (B.S.)
+
   
-Service and leadership
+Honors and Scholarships
 ======
-* Currently signed in to 43 different slack teams
+
+* FPI Grant by the Spanish Government, 2015 - 2020
+
+* Universidad Carlos III de Madrid, Ayudas al Master, 2014 - 2015
+
+
+Skills
+======
+
+ * <i>IT Packages</i>: Stata, Matlab, QGIS, R, Python, LATEX
+ 
+* <i>Languages</i>: Italian (native), English (fluent), Spanish (intermediate), French (basic)
+
+
