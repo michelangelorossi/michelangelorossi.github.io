@@ -21,11 +21,11 @@ Current Position
 Education
 ======
 
-* Ph.D in Economics, Univerisdad Carlos III de Madrid, 2020
+* Ph.D in Economics, Universidad Carlos III de Madrid, 2020
   * Advisors: Natalia Fabra, and Matilde Pinto Machado
   * Ph.D. Thesis: Essays on Reputation in Online Marketplaces
   
-* M.A. in Economic Analysis, Univerisdad Carlos III de Madrid, 2016
+* M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2016
 
 * M.S. in Economics, University of Pisa and Sant'Anna School of Advanced Studies, 2014
 
@@ -62,7 +62,7 @@ Conferences and Workshops
 ======
 
 * <i>Academic Year 2019 - 2020</i>: 46th Annual Conference of the European Association for Research in Industrial Economics (Barcelona, Spain); XXXIV Jornadas de Economía
-Industrial (Madrid, Spain); TSE DigitalWorkshop - ENTER Seminar (Toulouse, France); Cambridge Judge Business School Conference on "Unintended Consequences of Regulation"
+Industrial (Madrid, Spain); TSE Digital Workshop - ENTER Seminar (Toulouse, France); Cambridge Judge Business School Conference on "Unintended Consequences of Regulation"
 (Cambridge, UK) (canceled); 18th Annual International Industrial Organization Conference, <i>Rising Star Session</i> (Philadelphia, USA) (canceled)
 
 * <i>Academic Year 2018 - 2019</i>: 17th Annual International Industrial Organization Conference, <i>Rising Star Session</i> (Boston, USA); Doctoral Workshop on the Economics of Digitization (Louvain-la-Neuve, Belgium); CEPR/JIE School on Applied Industrial Organisation (Madrid, Spain)
