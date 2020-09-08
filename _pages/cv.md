@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the pdf version of my CV here.
+You can find the pdf version of my CV <a href="https://drive.google.com/file/d/1MW8h-dE0Fe1HuT3FZsGMBfuC5PlZvKrl/view?usp=sharing">here</a>.
 
 
 Current Position
@@ -22,7 +22,7 @@ Education
 ======
 
 * Ph.D in Economics, Universidad Carlos III de Madrid, 2020
-  * Advisors: Natalia Fabra, and Matilde Pinto Machado
+  * Advisors: <a href="http://nfabra.uc3m.es/">Natalia Fabra</a>, and <a href="https://sites.google.com/view/matildepmachado/home">Matilde Pinto Machado</a>
   * Ph.D. Thesis: Essays on Reputation in Online Marketplaces
   
 * M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2016
