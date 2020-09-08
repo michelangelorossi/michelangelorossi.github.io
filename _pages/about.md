@@ -16,6 +16,9 @@ I work primarely on Digitization. My research interests span:
 * Rating behavior and expectations.
 
 
+Contact
+------
+
 You can email me at <a href="mailto:mrossi@eco.uc3m.es">mrossi@eco.uc3m.es</a>, or send me a letter:
 
 Télécom Paris, Département Sciences Économiques et Sociales
