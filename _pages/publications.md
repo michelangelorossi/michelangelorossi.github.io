@@ -17,6 +17,6 @@ Working Papers
 -----
 
 * <a href="https://drive.google.com/file/d/1_ZIvVdFi6bjfTl2vxZ8iceAoRtQMXiWZ/view">"How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb"</a>, 2019
-** CESifo Working Paper Series
+  * CESifo Working Paper Series
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards", 2019 [New Draft Soon]
