@@ -13,12 +13,6 @@ Publications
 Working Papers
 =====
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* “How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb”, 2019, CESifo Working Paper
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* “Quality Disclosures and Disappointment: Evidence from the Academy Awards”, 2019
