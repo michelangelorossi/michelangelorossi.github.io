@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michelangelo Rossi"
 title_separator          : "-"
 name                     : &name "Michelangelo Rossi"
-description              : &description "Ph.D. Candidate in Economics at Universidad Carlos III de Madrid. From October 2020 Assistant Professor (Maître de Conférences) at Paris Telecom."
+description              : &description "Assistant Professor (Maître de Conférences) at Télécom Paris, Institut Polytechnique de Paris"
 url                      : https://michelangelorossi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michelangelorossi/michelangelorossi.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michelangelo Rossi"
   avatar           : "MRossi_pic_web.jpg"
-  bio              : "Digital Economists. Ph.D. Candidate in Economics at Universidad Carlos III de Madrid"
-  location         : "Madrid, Spain"
-  employer         :
+  bio              : "Digital Economists. Assistant Professor (Maître de Conférences) at Télécom Paris, Institut Polytechnique de Paris"
+  location         : "Palaiseau, France"
+  employer         : "https://www.telecom-paris.fr/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=L56KwxkAAAAJ&hl=it"
   email            :
