@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Universidad Carlos III de Madrid, Department of Economics"
-date: 2015-2018
+date: 2015-01-01
 location: "Madrid, Spain"
 ---
 
