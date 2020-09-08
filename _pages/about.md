@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Michelangelo, a Ph.D. Candidate in Economics at Universidad Carlos III de Madrid. Starting this Fall, I will be Assistant Professor (Maître de Conférences) at Paris Telecom. I am an economist interested in the economics of digital markets. This is still a work in progress webpage 
+I am an Assistant Professor (Maître de Conférences) at Télécom Paris, Institut Polytechnique de Paris.
+
+I work primarely on Digitization. My research interests span:
+
+* Reputation systems and entry costs;
+* Rating behavior and expectations.
+
+You can email me at mrossi@eco.uc3m.es, or send me a letter:
+
+Télécom Paris, Département Sciences Économiques et Sociales
+19 place Marguerite Perey, 91120, Palaiseau, France
