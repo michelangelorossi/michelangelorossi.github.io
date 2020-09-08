@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During my Ph.D. at Universidad Carlos III de Madrid, I had the opportunity to work as a teaching assistant for eight courses and a total of fifteen groups. For each group, I taught one class per week (1.5 hour) for twelve weeks and gave office hours according with the students' requests. I taught courses at various levels: Ph.D., Master, and Bachelor. Mainly, I worked with international students and all courses were taught in English.
 
 Heading 1
 ======
