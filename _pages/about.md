@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Maître de Conférences) at Télécom Paris, Institut Polytechnique de Paris.
+I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris.
 
 I work primarely on Digitization. My research interests span:
 
