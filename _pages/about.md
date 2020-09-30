@@ -19,7 +19,7 @@ I work primarely on Digitization. My research interests span:
 Contacts
 ------
 
-You can email me at <a href="mailto:mrossi@eco.uc3m.es">mrossi@eco.uc3m.es</a>, or send me a letter:
+You can email me at <a href="mailto:michelangelo.rossi@telecom-paris.fr">michelangelo.rossi@telecom-paris.fr</a>, or send me a letter:
 
 Télécom Paris, Département Sciences Économiques et Sociales
 
