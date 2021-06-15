@@ -21,6 +21,6 @@ Contacts
 
 You can email me at <a href="mailto:michelangelo.rossi@telecom-paris.fr">michelangelo.rossi@telecom-paris.fr</a>, or send me a letter:
 
-Télécom Paris, Département Sciences Économiques et Sociales
+Télécom Paris, Institut Mines Télécom, Département Sciences Économiques et Sociales
 
-19 place Marguerite Perey, 91120, Palaiseau, France
+31 boulevard Thomas Gobert, 91120, Palaiseau, France
