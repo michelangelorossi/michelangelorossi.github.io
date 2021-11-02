@@ -12,7 +12,7 @@ I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris.
 
 I work primarely on Industrial Organization, with a specific focus on Digital Markets and Platforms. 
 
-I co-organize the <a href="https://sites.google.com/view/parisdigitaleconomics/">Paris Seminar Series</a> on Digital Economics and the <a href="https://sites.google.com/view/j-des/home/">joint Digital Economics Seminar </a>
+I co-organize the <a href="https://sites.google.com/view/parisdigitaleconomics/">Paris Seminar Series</a> on Digital Economics and the <a href="https://sites.google.com/view/j-des/home/">joint Digital Economics Seminar </a>.
 
 
 
