@@ -9,14 +9,14 @@ author_profile: true
 Publications 
 -----
 
-* <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">“Asymmetric Information and Review Systems: The Challenge of Digital Platforms”</a>
+* <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">"Asymmetric Information and Review Systems: The Challenge of Digital Platforms"</a>
 In <a href="https://www.dropbox.com/s/hnlhbnkbk3zmdpi/Economic_Analysis_of_the_Digital_Revolution.pdf?dl=0">"Economic Analysis of the Digital Revolution"</a> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas 
 
 
 Working Papers
 -----
 
-* <a href="https://drive.google.com/file/d/1zO7jjIVM2Dt8OUX7GPPhzf00COBIAWrP/view?usp=sharing">"Competition and Reputation in a Congested Marketplace: Theory and Evidence from Airbnb"</a>, 2021 (Current Draft)
+* "Competition and Reputation in a Congested Marketplace: Theory and Evidence from Airbnb", 2021 (New Draft Available Soon)
   * Revise & Resubmit, Management Science
   * CRESSE & CPI Awards for Young Researchers - Best Digital Economy Paper by the CCIA
   * <a href="https://www.cesifo.org/en/publikationen/2019/working-paper/how-does-competition-affect-reputation-concerns-theory-and">"CESifo Working Paper No. 7972, Munich, 2019"</a>
