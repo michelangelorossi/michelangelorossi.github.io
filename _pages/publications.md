@@ -31,5 +31,5 @@ Working Papers
 Work in Progress
 -----
 
-* "{What's in a Name (Without a Picture)? \\ The Unintended Effects of the Profile Photo Protection Policy on Airbnb", with Elizaveta Pronkina, 2022 (Draft Available Upon Request)
+* "{What's in a Name (Without a Picture)? The Unintended Effects of the Profile Photo Protection Policy on Airbnb", with Elizaveta Pronkina, 2022 (Draft Available Upon Request)
 * "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2022 (Draft Available Upon Request)
