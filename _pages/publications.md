@@ -32,4 +32,4 @@ Work in Progress
 -----
 
 * "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2022 (Draft Available Upon Request)
-* "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphela Andres and Mark J. Tremblay, 2022
+* "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2022
