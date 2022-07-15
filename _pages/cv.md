@@ -16,7 +16,7 @@ Current Position
 ======
 
 * Assistant Professor in Digital Economics at Télécom Paris, Institut Polytechnique de Paris (2020 to present)
- 
+* CESifo Research Network Affiliate (2022 to present)
  
 Education
 ======
