@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris.
+I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris. I am also a CESifo Research Network Affiliate.
 
 I work primarely on Industrial Organization, with a specific focus on Digital Markets and Platforms. 
 
