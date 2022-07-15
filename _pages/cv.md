@@ -56,7 +56,7 @@ Working Papers
 Invited Seminars
 ======
 
-* <i>Academic Year 2019 - 2020</i>: DICE (Dusseldorf, Germany); LMU (Munich, Germany); Simon Business School (Rochester, USA); University of Toronto (Toronto, Canada); ITAM Business (Mexico City, Mexico); New Economic School (Moscow, Russia); Higher School of Economics (Moscow, Russia); University of Melbourne (Melbourne, Australia); Télécom Paris (Palaiseau, France); Université Paris Saclay (Sceaux, France); University of Padua (Padua, Italy); University of Zurich (Zurich, Switzerland); ifo Institut (Munich, Germany)
+* DICE (Dusseldorf, Germany); LMU (Munich, Germany); Simon Business School (Rochester, USA); University of Toronto (Toronto, Canada); ITAM Business (Mexico City, Mexico); New Economic School (Moscow, Russia); Higher School of Economics (Moscow, Russia); University of Melbourne (Melbourne, Australia); Télécom Paris (Palaiseau, France); Université Paris Saclay (Sceaux, France); University of Padua (Padua, Italy); University of Zurich (Zurich, Switzerland); ifo Institut (Munich, Germany)
  
  
 Conferences and Workshops
