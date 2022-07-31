@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - present
+Digital Economics and E-commerce
+======
 
-E-commerce, Master IREN (Network Industries and the Digital Economy), Institut Polytechnique de Paris, 2021
-
+* Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - present
+* E-commerce, Master IREN (Network Industries and the Digital Economy), Institut Polytechnique de Paris, 2021
