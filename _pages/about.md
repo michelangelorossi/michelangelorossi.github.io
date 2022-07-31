@@ -1,12 +1,4 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris. I am also a CESifo Research Network Affiliate.
 
