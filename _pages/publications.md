@@ -17,7 +17,7 @@ Working Papers
 -----
 
 * "Competition and Reputation in a Congested Marketplace: Theory and Evidence from Airbnb", 2021 (New Draft Available Soon)
-  * Revise & Resubmit, Management Science
+  * Accepted, Management Science
   * CRESSE & CPI Awards for Young Researchers - Best Digital Economy Paper by the CCIA
   * <a href="https://www.cesifo.org/en/publikationen/2019/working-paper/how-does-competition-affect-reputation-concerns-theory-and">"CESifo Working Paper No. 7972, Munich, 2019"</a>
   * Previously titled: How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb
@@ -28,8 +28,13 @@ Working Papers
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
   * Abstract: This paper studies the impact of quality disclosures on buyers' ratings using data from an online recommender system. Disclosures may alter expectations on sellers' quality and affect buyers' rating behavior. In particular, if buyers' utility depends on their expectations, a positive disclosure of quality such as an award may lead to buyers' disappointment with a negative influence on their ratings. I identify the disappointment effect in moviegoers' ratings originated from the rise in expectations due to movies' nominations for the Academy of Motion Picture Arts and Sciences awards. I control for the selection of moviegoers who watch and rate movies before or after nominations with a non-parametric matching technique. After nominations, ratings for nominated movies significantly drop relative to ratings for movies that were not nominated. Disappointment reduces the rating premium of nominated movies by more than five percent in the next thirty days after the nomination.
 
+* <a href="https://www.hbs.edu/ris/Publication%20Files/23-012_f4fa5a45-f77f-4f81-b7cb-3b664847e418.pdf">"Scapegoating and Discrimination in Times of Crisis: Evidence from Airbnb"</a> with Michael Luca and Elizaveta Pronkina, 2022 (Current Draft)
+  * Submitted
+  * Abstract: We present evidence that discrimination against Asian-American Airbnb users sharply increased at the start of the COVID-19 pandemic. Using a DiD approach, we find that hosts with distinctively Asian names experienced a 12 percent decline in guests relative to hosts with distinctively White names. In contrast, we do not see spikes in discrimination against Black or Hispanic hosts. Our results suggest that the rise in anti-Asian sentiment in 2020 translated to discrimination in economic activity, highlighting the ways in which scapegoating minority groups can shape markets. Our results also point to the role of platform design choices in enabling discrimination.
+
 Work in Progress
 -----
 
 * "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2022 (Draft Available Upon Request)
+* "The Good, the Bad and the Picky: Reference Dependence and the Reversal of Movie Ratings", with Tommaso Bondi and Ryan Stevens, 2022 (Draft Available Upon Request)
 * "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2022
