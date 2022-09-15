@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 
-Publications 
------
-
-* <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">"Asymmetric Information and Review Systems: The Challenge of Digital Platforms"</a>
-In <a href="https://www.dropbox.com/s/hnlhbnkbk3zmdpi/Economic_Analysis_of_the_Digital_Revolution.pdf?dl=0">"Economic Analysis of the Digital Revolution"</a> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas 
-
-
 Working Papers
 -----
 
@@ -39,3 +32,12 @@ Work in Progress
 * "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2022 (Draft Available Upon Request)
 * "The Good, the Bad and the Picky: Reference Dependence and the Reversal of Movie Ratings", with Tommaso Bondi and Ryan Stevens, 2022 (Draft Available Upon Request)
 * "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2022
+
+
+Publications 
+-----
+
+* <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">"Asymmetric Information and Review Systems: The Challenge of Digital Platforms"</a>
+In <a href="https://www.dropbox.com/s/hnlhbnkbk3zmdpi/Economic_Analysis_of_the_Digital_Revolution.pdf?dl=0">"Economic Analysis of the Digital Revolution"</a> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas 
+
+
