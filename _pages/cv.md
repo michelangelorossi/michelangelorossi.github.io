@@ -37,20 +37,12 @@ Academic Experience and Short-Term Visits
 
 * Visiting Ph.D. Student at Rotman School of Management, University of Toronto, 2018
 * Visiting Scholar at CESifo Research Network, 2022
-* Visiting Scholar at Rotman School of Management, University of Toronto, 2018
+* Visiting Scholar at Rotman School of Management, University of Toronto, 2022
 
 Publications
 ======
 
 * "Asymmetric Information and Review Systems: The Challenge of Digital Platforms", 2018, <i>Economic Analysis of the Digital Revolution</i> edited by J.J. Ganuza and G. Llobet
-
-
-Working Papers
-======
-
-* "How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb", 2019, CESifo Working Paper
-
-* "Quality Disclosures and Disappointment: Evidence from the Academy Awards", 2019
 
 
 Invited Seminars
