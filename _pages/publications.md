@@ -39,5 +39,4 @@ Publications
 
 * <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">"Asymmetric Information and Review Systems: The Challenge of Digital Platforms"</a>
 In <a href="https://www.dropbox.com/s/hnlhbnkbk3zmdpi/Economic_Analysis_of_the_Digital_Revolution.pdf?dl=0">"Economic Analysis of the Digital Revolution"</a> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas 
-
-
+* <a href="[https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination)">"Ensuring Your Products Aren’t Used for Discrimination"</a> with Michael Luca, and Elizaveta Pronkina. Harvard Business Review Digital Articles (2022)
