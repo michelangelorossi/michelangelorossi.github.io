@@ -22,8 +22,6 @@ Education
 ======
 
 * Ph.D in Economics, Universidad Carlos III de Madrid, 2020
-  * Advisors: <a href="http://nfabra.uc3m.es/">Natalia Fabra</a>, and <a href="https://sites.google.com/view/matildepmachado/home">Matilde Pinto Machado</a>
-  * Ph.D. Thesis: Essays on Reputation in Online Marketplaces
   
 * M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2016
 
@@ -34,8 +32,6 @@ Education
 
 Working Papers
 ======
-
-* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2021
  
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards", 2021
 
@@ -47,6 +43,7 @@ Publications
 
 * "Asymmetric Information and Review Systems: The Challenge of Digital Platforms", 2018, <i>Economic Analysis of the Digital Revolution</i> edited by J.J. Ganuza and G. Llobet
 
+* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
 
 Teaching
 ======
