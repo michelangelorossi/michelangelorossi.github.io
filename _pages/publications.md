@@ -8,7 +8,7 @@ author_profile: true
 Publications
 -----
 
-* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2022
+* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023
   * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">Forthcoming</a>
   * CRESSE & CPI Awards for Young Researchers - Best Digital Economy Paper by the CCIA
   * Previously titled: How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb
