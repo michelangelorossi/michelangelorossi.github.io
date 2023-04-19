@@ -9,7 +9,7 @@ Publications
 -----
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2022
-  * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">"Forthcoming"</a>
+  * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">Forthcoming</a>
   * CRESSE & CPI Awards for Young Researchers - Best Digital Economy Paper by the CCIA
   * Previously titled: How Does Competition Affect Reputation Concerns? Theory and Evidence from Airbnb
   * Abstract: I study how competition affects the role of reputation in encouraging sellers to exert effort. First, I model the reputation-building process in a frictional marketplace. Here, the relative number of buyers and sellers affects how the two sides of the market share the surplus from a match. With more competitors, sellers exert less effort since their share of transactions' surplus is lower. Then, I test this prediction by exploiting the introduction of a rental regulation on Airbnb. More competition significantly depresses ratings about effort. To address rating inflation and selection of guests, I provide an estimation of hosts' effort exploiting the relationship between different categories of ratings reported by the same guests. The negative impact of a 10 percent increase in the number of competitors is equivalent to the variation from the 80th to the 20th percentile of the estimated effort distribution.
