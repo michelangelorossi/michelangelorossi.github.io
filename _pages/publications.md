@@ -19,6 +19,7 @@ Working Papers
 -----
 
 * <a href="https://www.hbs.edu/ris/Publication%20Files/23-012_f4fa5a45-f77f-4f81-b7cb-3b664847e418.pdf">"Scapegoating and Discrimination in Times of Crisis: Evidence from Airbnb"</a> with Michael Luca and Elizaveta Pronkina, 2022 (Current Draft)
+  * Revise & Resubmit, Marketing Science
   * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
   * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>
   * Abstract: We present evidence that discrimination against Asian-American Airbnb users sharply increased at the start of the COVID-19 pandemic. Using a DiD approach, we find that hosts with distinctively Asian names experienced a 12 percent decline in guests relative to hosts with distinctively White names. In contrast, we do not see spikes in discrimination against Black or Hispanic hosts. Our results suggest that the rise in anti-Asian sentiment in 2020 translated to discrimination in economic activity, highlighting the ways in which scapegoating minority groups can shape markets. Our results also point to the role of platform design choices in enabling discrimination.
