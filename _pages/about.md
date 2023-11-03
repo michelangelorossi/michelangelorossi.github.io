@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Télécom Paris, Institut Polytechnique de Paris. I am also a CESifo Research Network Affiliate.
+I am an Assistant Professor at Télécom Paris, CREST, Institut Polytechnique de Paris. I am also a CESifo Research Network Affiliate.
 
-I work primarely on Industrial Organization, with a specific focus on Digital Markets and Platforms. 
+I work primarily on Digitization, Economics of Online Platforms, and Industrial Organization. 
 
 I co-organize the <a href="https://sites.google.com/view/parisdigitaleconomics/">Paris Seminar Series</a> on Digital Economics and the <a href="https://sites.google.com/view/j-des/home/">joint Digital Economics Seminar</a>.
 
