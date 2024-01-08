@@ -34,8 +34,10 @@ Working Papers
 Work in Progress
 -----
 
-* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2023 
-* "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption", with Luca Rossi, 2023
+* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024 
+* "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption", with Luca Rossi, 2024
+* "Deceptive Features and Hidden Prices: The Case of Airbnb Cleaning Fees", with Leonardo Madio, Kevin Tran, and Mark J. Tremblay, 2024
+* "The Strategic Adaptation of Uber's Pricing Algorithm in Response to Minimum Wage Changes", with Louis Pape, 2024
 
 
 Publications (Not Peer Reviewed)
