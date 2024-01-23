@@ -20,15 +20,15 @@ Publications
 
 Working Papers
 -----
-  
-* <a href="https://drive.google.com/file/d/19QE6xjBOItAZtUKTl-KOintu25G2InT1/view?usp=sharing">"The Good, the Bad and the Picky: Quality-based Users Self-Selection and the Reversal of Product Ratings"</a>, with Tommaso Bondi and Ryan Stevens, 2022 (Current Draft)
-  * Revise & Resubmit, Management Science
-  * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"DOI:https://doi.org/10.1145/3580507.3597751"</a>
 
 * <a href="https://drive.google.com/file/d/1z8eyrGw-Rm0RjXAGmq4XIit1ZNORIFbo/view?usp=sharing">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
   * Reject & Resubmit, Management Science
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
 
+* <a href="https://drive.google.com/file/d/19QE6xjBOItAZtUKTl-KOintu25G2InT1/view?usp=sharing">"The Good, the Bad and the Picky: Quality-based Users Self-Selection and the Reversal of Product Ratings"</a>, with Tommaso Bondi and Ryan Stevens, 2022 (Current Draft)
+  * Revise & Resubmit, Management Science
+  * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"DOI:https://doi.org/10.1145/3580507.3597751"</a>
+  
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
   * Reject & Resubmit, Marketing Science
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
@@ -40,7 +40,6 @@ Work in Progress
 -----
 
 * "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024 
-* "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption", with Luca Rossi, 2024
 * "Deceptive Features and Hidden Prices: The Case of Airbnb Cleaning Fees", with Leonardo Madio, Kevin Tran, and Mark J. Tremblay, 2024
 * "The Strategic Adaptation of Uber's Pricing Algorithm in Response to Minimum Wage Changes", with Louis Pape, 2024
 
