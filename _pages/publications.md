@@ -31,8 +31,11 @@ Working Papers
 
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
   * Reject & Resubmit, Marketing Science
-  * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a> 
+  * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
 
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption"</a>, with Luca Rossi, 2024 (Current Draft)
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"CESifo Working Paper No. 10887, 2024"</a> 
+    
 Work in Progress
 -----
 
