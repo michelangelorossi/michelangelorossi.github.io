@@ -8,16 +8,16 @@ author_profile: true
 Publications
 -----
 
+* "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
+  * Marketing Science, <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
+  * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
+  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>
+
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023
   * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">Forthcoming</a>
   * CRESSE & CPI Awards for Young Researchers - <a href="https://ccianet.org/news/2021/09/ccia-sponsors-an-award-at-the-cresse-conference/">"Best Digital Economy Paper by the CCIA"</a>
   * Nominated for the <a href="https://awards.concurrences.com/en/awards/2024/academic-articles/competition-and-reputation-in-an-online-marketplace-evidence-from-airbnb">"Antitrust Writing Awards 2024"</a>
-
-* <a href="https://www.hbs.edu/ris/Publication%20Files/23-012_f4fa5a45-f77f-4f81-b7cb-3b664847e418.pdf">"The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic"</a> with Michael Luca and Elizaveta Pronkina, 2022 (Current Draft)
-  * Accepted for Publication, Marketing Science
-  * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
-  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>
-
+  
 Working Papers
 -----
 
