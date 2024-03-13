@@ -14,7 +14,7 @@ Publications
   * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023
-  * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">Forthcoming</a>
+  * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">70(3):1357-1373</a>
   * CRESSE & CPI Awards for Young Researchers - <a href="https://ccianet.org/news/2021/09/ccia-sponsors-an-award-at-the-cresse-conference/">"Best Digital Economy Paper by the CCIA"</a>
   * Nominated for the <a href="https://awards.concurrences.com/en/awards/2024/academic-articles/competition-and-reputation-in-an-online-marketplace-evidence-from-airbnb">"Antitrust Writing Awards 2024"</a>
   
@@ -48,5 +48,4 @@ Publications (Not Peer Reviewed)
 -----
  
 * <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Ensuring Your Products Aren’t Used for Discrimination"</a> with Michael Luca, and Elizaveta Pronkina. Harvard Business Review Digital Articles (2022)
-* <a href="https://drive.google.com/file/d/11mwubDhEvnN0DAVWCe5qvBwYhbRIYLF1/view">"Asymmetric Information and Review Systems: The Challenge of Digital Platforms"</a>
-In <a href="https://www.dropbox.com/s/hnlhbnkbk3zmdpi/Economic_Analysis_of_the_Digital_Revolution.pdf?dl=0">"Economic Analysis of the Digital Revolution"</a> edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas
+* Asymmetric Information and Review Systems: The Challenge of Digital Platforms" In "Economic Analysis of the Digital Revolution" edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas
