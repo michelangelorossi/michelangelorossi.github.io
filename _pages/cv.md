@@ -36,7 +36,7 @@ Scientific Articles
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
   CRESSE and CPI 2021 Award for the Best Paper on the Digital Economy
-  Nominated for the Antitrust Writing Awards 2024 \normalsize \vspace{3pt}
+  Nominated for the Antitrust Writing Awards 2024 
 
 
 Working Papers
