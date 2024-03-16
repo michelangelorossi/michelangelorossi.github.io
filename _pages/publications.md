@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Scientific Articles
 -----
 
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
@@ -21,11 +21,7 @@ Publications
 Working Papers
 -----
 
-* <a href="https://drive.google.com/file/d/1z8eyrGw-Rm0RjXAGmq4XIit1ZNORIFbo/view?usp=sharing">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
-  * Reject & Resubmit, Management Science
-  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
-
-* <a href="https://drive.google.com/file/d/19QE6xjBOItAZtUKTl-KOintu25G2InT1/view?usp=sharing">"The Good, the Bad and the Picky: Quality-based Users Self-Selection and the Reversal of Product Ratings"</a>, with Tommaso Bondi and Ryan Stevens, 2022 (Current Draft)
+* <a href="https://drive.google.com/file/d/19QE6xjBOItAZtUKTl-KOintu25G2InT1/view?usp=sharing">"The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings"</a>, with Tommaso Bondi and Ryan Stevens, 2024 (Current Draft)
   * Revise & Resubmit, Management Science
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"DOI:https://doi.org/10.1145/3580507.3597751"</a>
   
@@ -35,6 +31,10 @@ Working Papers
 
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption"</a>, with Luca Rossi, 2024 (Current Draft)
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"CESifo Working Paper No. 10887, 2024"</a> 
+
+* "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2021 (New Draft Soon)
+  * Reject & Resubmit, Management Science
+  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
     
 Work in Progress
 -----
@@ -44,7 +44,7 @@ Work in Progress
 * "The Strategic Adaptation of Uber's Pricing Algorithm in Response to Minimum Wage Changes", with Louis Pape, 2024
 
 
-Publications (Not Peer Reviewed)
+Chapters and Media
 -----
  
 * <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Ensuring Your Products Aren’t Used for Discrimination"</a> with Michael Luca, and Elizaveta Pronkina. Harvard Business Review Digital Articles (2022)
