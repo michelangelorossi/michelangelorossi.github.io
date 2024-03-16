@@ -29,44 +29,49 @@ Education
 
 * B.S. in Economics, University of Pisa, 2012
 
+Scientific Articles
+======
+
+* "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024, Marketing Science  
+
+* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
+  CRESSE and CPI 2021 Award for the Best Paper on the Digital Economy
+  Nominated for the Antitrust Writing Awards 2024 \normalsize \vspace{3pt}
+
 
 Working Papers
 ======
 
-* "Scapegoating and Discrimination in Times of Crisis: Evidence from Airbnb" with Michael Luca and Elizaveta Pronkina, 2022
+* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024
 
-* "The Good, The Bad and The Picky: Reference Dependence and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2022
+* "Quality Disclosures, Disappointment, and its Medium-Run Effects: Evidence from the Academy Awards", with Felix Schleef, 2024
 
-* "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2023
+* "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2023
 
-* "YouTube 'Adpocalypse': The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2023
+* "From Courtrooms to Charts: the Impact of Kavanaugh’s Appointment on Music Consumption", with Luca Rossi, 2024
 
-* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn’t", with Chiara Belletti and Elizaveta Pronkina, 2023
-  
-Publications
-======
+* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn’t", with Chiara Belletti and Elizaveta Pronkina, 2024
 
-* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
-  
-* "Ensuring Your Products Aren’t Used for Discrimination" with Michael Luca, and Elizaveta Pronkina, 2022, Harvard Business Review Digital Articles
-
-* "Asymmetric Information and Review Systems: The Challenge of Digital Platforms", 2018, <i>Economic Analysis of the Digital Revolution</i> edited by J.J. Ganuza and G. Llobet
-  
 Teaching
 ======
 
 * Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - present
 
-* E-commerce, Master IREN (Network Industries and the Digital Economy), Institut Polytechnique de Paris, 2021
+* E-commerce, Master IREN (Network Industries and the Digital Economy), 2021- present
 
+* Sharing Economy, Ecole Polytechnique, 2022 - present 
+
+* Platform Economics, Télécom Paris, 2022 - present
 
 Visiting Periods
 ======
 
-* Visiting Ph.D. Student at Rotman School of Management, University of Toronto, 2018
-* Visiting Scholar at CESifo Research Network, 2022
 * Visiting Scholar at Rotman School of Management, University of Toronto, 2022
   
+* Visiting Scholar at CESifo Research Network, 2022
+  
+* Visiting Ph.D. Student at Rotman School of Management, University of Toronto, 2018
+
 Honors and Scholarships
 ======
 
@@ -81,6 +86,6 @@ Others
 
  * <i>IT Packages</i>: Stata, Matlab, QGIS, R, Python, LATEX
  
-* <i>Languages</i>: Italian (native), English (fluent), Spanish (intermediate), French (basic)
+* <i>Languages</i>: Italian (native), English (fluent), French (intermediate), Spanish (intermediate)
 
 
