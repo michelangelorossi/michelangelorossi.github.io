@@ -35,9 +35,6 @@ Scientific Articles
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024, Marketing Science  
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
-  CRESSE and CPI 2021 Award for the Best Paper on the Digital Economy
-  Nominated for the Antitrust Writing Awards 2024 
-
 
 Working Papers
 ======
