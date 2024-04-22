@@ -22,7 +22,7 @@ Working Papers
 -----
 
 * <a href="https://drive.google.com/file/d/19QE6xjBOItAZtUKTl-KOintu25G2InT1/view?usp=sharing">"The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings"</a>, with Tommaso Bondi and Ryan Stevens, 2024 (Current Draft)
-  * Revise & Resubmit, Management Science
+  * Accepted, Management Science
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"DOI:https://doi.org/10.1145/3580507.3597751"</a>
   
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
