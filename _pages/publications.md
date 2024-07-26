@@ -39,9 +39,9 @@ Working Papers
 Work in Progress
 -----
 
-* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024 
+* "Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024 
 * "Deceptive Features and Hidden Prices: The Case of Airbnb Cleaning Fees", with Leonardo Madio, Kevin Tran, and Mark J. Tremblay, 2024
-* "The Strategic Adaptation of Uber's Pricing Algorithm in Response to Minimum Wage Changes", with Louis Pape, 2024
+* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps", with Louis Pape, 2024
 
 
 Chapters and Media
