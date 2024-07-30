@@ -32,22 +32,11 @@ Education
 Scientific Articles
 ======
 
+* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024, Accepted at Management Science
+
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024, Marketing Science  
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023, Management Science
-
-Working Papers
-======
-
-* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024
-
-* "Quality Disclosures, Disappointment, and its Medium-Run Effects: Evidence from the Academy Awards", with Felix Schleef, 2024
-
-* "YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues", with Raphaela Andres and Mark J. Tremblay, 2023
-
-* "From Courtrooms to Charts: the Impact of Kavanaugh’s Appointment on Music Consumption", with Luca Rossi, 2024
-
-* "Reputation Concerns and the End-Game Effect: When Reputation Works and When it Doesn’t", with Chiara Belletti and Elizaveta Pronkina, 2024
 
 Teaching
 ======
