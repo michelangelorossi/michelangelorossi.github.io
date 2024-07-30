@@ -29,19 +29,20 @@ Working Papers
   * Reject & Resubmit, Marketing Science
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
 
-* <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption"</a>, with Luca Rossi, 2024 (Current Draft)
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption">"CESifo Working Paper No. 10887, 2024"</a> 
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2021 (New Draft Soon)
   * Reject & Resubmit, Management Science
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
+  
+* "Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024   
+
     
 Work in Progress
 -----
 
-* "Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024 
 * "Deceptive Features and Hidden Prices: The Case of Airbnb Cleaning Fees", with Leonardo Madio, Kevin Tran, and Mark J. Tremblay, 2024
-* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps", with Louis Pape, 2024
 
 
 Chapters and Media
