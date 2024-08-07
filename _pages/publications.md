@@ -36,7 +36,8 @@ Working Papers
   * Reject & Resubmit, Management Science
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
   
-* "Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't", with Chiara Belletti and Elizaveta Pronkina, 2024   
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
+  * * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a> 
 
     
 Work in Progress
