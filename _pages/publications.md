@@ -30,6 +30,7 @@ Working Papers
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
 
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
+  * Reject & Resubmit, Marketing Science 
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2021 (New Draft Soon)
