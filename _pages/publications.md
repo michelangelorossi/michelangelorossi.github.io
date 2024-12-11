@@ -11,11 +11,12 @@ Scientific Articles
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2024
   * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">Forthcoming</a>
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"DOI:https://doi.org/10.1145/3580507.3597751"</a>
+  * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>
   
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
   * Marketing Science, <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
   * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
-  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>
+  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"MarketWatch"</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Harvard Business Review"</a>
 
 * "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023
   * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">70(3):1357-1373</a>
@@ -26,7 +27,6 @@ Working Papers
 -----
 
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
-  * Reject & Resubmit, Marketing Science
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
 
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
@@ -34,7 +34,6 @@ Working Papers
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2021 (New Draft Soon)
-  * Reject & Resubmit, Management Science
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"DOI:https://doi.org/10.1145/3465456.3467573"</a>
   
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
