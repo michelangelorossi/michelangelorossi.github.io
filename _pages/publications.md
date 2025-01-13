@@ -11,7 +11,7 @@ Scientific Articles
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2024
   * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">Forthcoming</a>
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"https://doi.org/10.1145/3580507.3597751"</a>
-  * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>
+  * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Harvard Business Review"</a>
   
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
   * Marketing Science, <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
@@ -30,23 +30,30 @@ Working Papers
   * Reject & Resubmit, Marketing Science 
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
 
-* "Quality Disclosures and Disappointment: Evidence from the Academy Awards", with Felix Schleef, 2021 (New Draft Soon)
-  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
-  
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a> 
+  * Reject & Resubmit, Marketing Science   
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a>
+    
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
+  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
 
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
-    
+
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">"Transparency of Add-On Fees on Peer-to-Peer Platforms: Evidence from Airbnb"</a>, with Kevin Tran, Leonardo Madio, and Mark J. Tremblay, 2024 (Current Draft)
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">"CESifo Working Paper No. 11574, 2024"</a>
+
+
 Work in Progress
 -----
 
-* "Transparency of Add-On Fees in Peer-to-Peer Platforms: Evidence from Airbnb", with Leonardo Madio, Kevin Tran, and Mark J. Tremblay, 2024
+* "The Distributional Effect of an Increase in Minimum Wage: The Case of Uber", with Louis Pape
 
 
 Chapters and Media
 -----
- 
+
+* <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Research: How Top Reviewers Skew Online Ratings"</a> with Tommaso Bondi, and Ryan Louis Stevens. Harvard Business Review Digital Articles (2025)
 * <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Ensuring Your Products Aren’t Used for Discrimination"</a> with Michael Luca, and Elizaveta Pronkina. Harvard Business Review Digital Articles (2022)
 * Asymmetric Information and Review Systems: The Challenge of Digital Platforms" In "Economic Analysis of the Digital Revolution" edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas
