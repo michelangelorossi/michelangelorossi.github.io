@@ -48,7 +48,7 @@ Working Papers
 Work in Progress
 -----
 
-* "The Distributional Effect of an Increase in Minimum Wage: The Case of Uber", with Louis Pape
+* "The Distributional Effect of an Increase in Minimum Wage: The Case of Uber", with Louis-Daniel Pape
 
 
 Chapters and Media
