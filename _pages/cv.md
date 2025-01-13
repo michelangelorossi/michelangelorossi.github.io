@@ -32,7 +32,7 @@ Education
 Scientific Articles
 ======
 
-* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024, Accepted at Management Science
+* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024, Management Science
 
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024, Marketing Science  
 
