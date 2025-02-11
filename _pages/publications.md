@@ -26,6 +26,11 @@ Scientific Articles
 Working Papers
 -----
 
+* <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
+  * Minor Revision, Management Science 
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
+  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
+
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
   * Reject & Resubmit, Marketing Science 
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
@@ -33,10 +38,6 @@ Working Papers
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
   * Reject & Resubmit, Marketing Science   
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a>
-    
-* <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
-  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
 
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
