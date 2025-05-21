@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Incoming Associate Professor (without tenure), HEC Paris — July 2025
+
 Currently Assistant Professor at Télécom Paris, CREST, Institut Polytechnique de Paris. CESifo Research Network Affiliate.
 
 I am an economist working at the intersection of industrial organization, quantitative marketing, and digital economics. My research focuses on platform design, online reputation systems, and competition policy.
@@ -21,6 +22,4 @@ Contacts
 
 You can email me at <a href="mailto:michelangelo.rossi@telecom-paris.fr">michelangelo.rossi@telecom-paris.fr</a>, or send me a letter:
 
-Télécom Paris, Institut Mines Télécom, Département Sciences Économiques et Sociales
-
-31 boulevard Thomas Gobert, 91120, Palaiseau, France
+Télécom Paris, Institut Mines Télécom, Département Sciences Économiques et Sociales, 31 boulevard Thomas Gobert, 91120, Palaiseau, France
