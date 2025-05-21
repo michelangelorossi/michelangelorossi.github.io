@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Télécom Paris, CREST, Institut Polytechnique de Paris. I am also a CESifo Research Network Affiliate.
+Incoming Associate Professor (without tenure), HEC Paris — July 2025
+Currently Assistant Professor at Télécom Paris, CREST, Institut Polytechnique de Paris. CESifo Research Network Affiliate.
 
-I work primarily on Digitization, Quantitative Marketing, and Competition Policy. 
+I am an economist working at the intersection of industrial organization, quantitative marketing, and digital economics. My research focuses on platform design, online reputation systems, and competition policy.
 
-I co-organize the <a href="https://sites.google.com/view/parisdigitaleconomics/">Paris Seminar Series</a> on Digital Economics and the <a href="https://sites.google.com/view/j-des/home/">joint Digital Economics Seminar</a>.
-
+I am one of the organizers of the <a href="https://www.digitaleconomics-paris.fr/conference-2025">Paris Digital Economics Conference</a>, an annual event that brings together researchers and policymakers working on the economics of digital platforms and technology markets.
 
 
 Contacts
