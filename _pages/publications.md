@@ -57,4 +57,4 @@ Chapters and Media
 
 * <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Research: How Top Reviewers Skew Online Ratings"</a> with Tommaso Bondi, and Ryan Louis Stevens. Harvard Business Review Digital Articles (2025)
 * <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Ensuring Your Products Aren’t Used for Discrimination"</a> with Michael Luca, and Elizaveta Pronkina. Harvard Business Review Digital Articles (2022)
-* Asymmetric Information and Review Systems: The Challenge of Digital Platforms" In "Economic Analysis of the Digital Revolution" edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas
+* "Asymmetric Information and Review Systems: The Challenge of Digital Platforms" In "Economic Analysis of the Digital Revolution" edited by J.J. Ganuza and G. Llobet. Chapter 2. 37-74 (2018). Madrid: Funcas
