@@ -49,7 +49,9 @@ Working Papers
 Work in Progress
 -----
 
-* "The Distributional Effect of an Increase in Minimum Wage: The Case of Uber", with Louis-Daniel Pape
+* "When Wages Rise, Do Algorithms React? Uber’s Response to Minimum Earnings Rules", with Jack Welcome Fisher and Louis-Daniel Pape
+* "Online Reviews: Information Content, Biases, and Platform Design", with Tommaso Bondi
+* "The First Passenger Matters: Racial and Gender Bias in BlaBlaCar Ride Offers", Klaus Miller
 
 
 Chapters and Media
