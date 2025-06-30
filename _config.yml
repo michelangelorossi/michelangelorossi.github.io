@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michelangelo Rossi"
 title_separator          : "-"
 name                     : &name "Michelangelo Rossi"
-description              : &description "Assistant Professor at Télécom Paris, Institut Polytechnique de Paris"
+description              : &description "Associate Professor at HEC Paris"
 url                      : https://michelangelorossi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michelangelorossi/michelangelorossi.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michelangelo Rossi"
   avatar           : "MRossi_pic_web1.jpg"
-  bio              : "Digital Economist. Assistant Professor at Télécom Paris, Institut Polytechnique de Paris"
-  location         : "Palaiseau, France"
+  bio              : "Associate Professor of Marketing at HEC Paris"
+  location         : "Jouy-en-Josas, France"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=L56KwxkAAAAJ&hl=it"
