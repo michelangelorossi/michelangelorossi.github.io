@@ -12,11 +12,13 @@ redirect_from:
 You can find the pdf version of my CV <a href="https://drive.google.com/file/d/1MW8h-dE0Fe1HuT3FZsGMBfuC5PlZvKrl/view?usp=sharing">here</a>.
 
 
-Academic Position
+Academic Positions
 ======
 
-* Assistant Professor in Digital Economics at Télécom Paris, CREST, Institut Polytechnique de Paris (2020 to present)
+* Associate Professor (untenured) of Marketing at HEC Paris (2025 to present)
 * CESifo Research Network Affiliate (2022 to present)
+* Assistant Professor of Digital Economics at Télécom Paris, CREST, Institut Polytechnique de Paris (2020 to 2025)
+
  
 Education
 ======
@@ -41,13 +43,13 @@ Scientific Articles
 Teaching
 ======
 
-* Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - present
+* Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - 2025
 
-* E-commerce, Master IREN (Network Industries and the Digital Economy), 2021- present
+* E-commerce, Master IREN (Network Industries and the Digital Economy), 2021- 2025
 
-* Sharing Economy, Ecole Polytechnique, 2022 - present 
+* Sharing Economy, Ecole Polytechnique, 2022 - 2025
 
-* Platform Economics, Télécom Paris, 2022 - present
+* Platform Economics, Télécom Paris, 2022 - 2025
 
 Visiting Periods
 ======
