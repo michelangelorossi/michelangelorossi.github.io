@@ -9,7 +9,7 @@ Scientific Articles
 -----
 
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2024
-  * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">Forthcoming</a>
+  * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">71(8):7200-7222</a>
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"https://doi.org/10.1145/3580507.3597751"</a>
   * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Harvard Business Review"</a>
   
