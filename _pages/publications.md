@@ -14,7 +14,7 @@ Scientific Articles
   * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Harvard Business Review"</a>
   
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
-  * Marketing Science, <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
+  * Marketing Science (Special Section on DEI), <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
   * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
   * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"Market Watch"</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Harvard Business Review"</a>
 
