@@ -52,7 +52,6 @@ Work in Progress
 
 * "When Wages Rise, Do Algorithms React? Uber’s Response to Minimum Earnings Rules", with Jack Welcome Fisher and Louis-Daniel Pape
 * "Online Reviews: Information Content, Biases, and Platform Design", with Tommaso Bondi
-* "The First Passenger Matters: Racial and Gender Bias in BlaBlaCar Ride Offers", with Klaus Miller
 
 
 Chapters and Media
