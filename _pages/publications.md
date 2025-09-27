@@ -7,7 +7,11 @@ author_profile: true
 
 Scientific Articles
 -----
-
+* "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025
+  * Accepted, Management Science 
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
+  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
+  
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2024
   * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">71(8):7200-7222</a>
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"https://doi.org/10.1145/3580507.3597751"</a>
@@ -25,11 +29,6 @@ Scientific Articles
   
 Working Papers
 -----
-
-* <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"Quality Disclosures and Disappointment: Evidence from the Academy Awards"</a>, with Felix Schleef, 2021 (Current Draft)
-  * Minor Revision, Management Science 
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
-  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
 
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
   * Minor Revision, Marketing Science
