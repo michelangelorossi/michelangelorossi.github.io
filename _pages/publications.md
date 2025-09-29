@@ -49,7 +49,7 @@ Working Papers
 Work in Progress
 -----
 
-* "When Wages Rise, Do Algorithms React? Uber’s Response to Minimum Earnings Rules", with Jack Welcome Fisher and Louis-Daniel Pape
+* "When Wages Rise, Do Algorithms React? Uber’s Response to Minimum Earnings Rules", with Louis-Daniel Pape
 * "Online Reviews: Information Content, Biases, and Platform Design", with Tommaso Bondi
 
 
