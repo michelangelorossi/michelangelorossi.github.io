@@ -65,11 +65,11 @@ Visiting Periods
 Honors and Scholarships
 ======
 
-* FPI Grant by the Spanish Government, 2015 - 2020
+* CRESSE 2025 Award for the Best Paper Young Researchers
 
-* Universidad Carlos III de Madrid, Ayudas al Master, 2014 - 2015
+* Nominated for the Antitrust Writing Awards 2024
 
-* CRESSE and CPI 2021 Award for the Best Paper on the Digital Economy
+* CRESSE and CPI 2021 Award for the Best Paper on the Digital Economy   
 
 Others
 ======
