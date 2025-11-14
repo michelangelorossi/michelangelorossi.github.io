@@ -39,11 +39,11 @@ Working Papers
   * Reject & Resubmit, Marketing Science   
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a>
 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5642430">"Cleanin' It Up: Unshrouding Hidden Fees on a Peer-to-Peer Platform "</a>, with Kevin Tran, Leonardo Madio, and Mark J. Tremblay, 2025 (Current Draft)
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">"CESifo Working Paper No. 11574, 2024"</a>
+  
 * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"YouTube Adpocalypse: The YouTubers’ Journey from Ad-Based to Patron-Based Revenues"</a>, with Raphaela Andres and Mark J. Tremblay, 2023 (Current Draft)
   * <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">"ZEW Discussion Paper No. 23-059, 2023"</a>
-
-* <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">"Transparency of Add-On Fees on Peer-to-Peer Platforms: Evidence from Airbnb"</a>, with Kevin Tran, Leonardo Madio, and Mark J. Tremblay, 2024 (Current Draft)
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">"CESifo Working Paper No. 11574, 2024"</a>
 
 
 Work in Progress
