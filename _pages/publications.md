@@ -7,6 +7,11 @@ author_profile: true
 
 Scientific Articles
 -----
+* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps", with Louis-Daniel Pape, 2025
+  * Accepted, Marketing Science
+  * <a href="https://www.cresse.info/wp-content/uploads/2025/09/CRESSE_CCIA_AWARDS_2025_v1.pdf">"CRESSE Best Paper Awards for Young Researchers"</a> 
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a>
+
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025
   * Accepted, Management Science 
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
@@ -29,12 +34,6 @@ Scientific Articles
   
 Working Papers
 -----
-
-* <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps"</a>, with Louis-Daniel Pape, 2024 (Current Draft)
-  * Minor Revision, Marketing Science
-  * <a href="https://www.cresse.info/wp-content/uploads/2025/09/CRESSE_CCIA_AWARDS_2025_v1.pdf">"CRESSE Best Paper Awards for Young Researchers"</a> 
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a> 
-
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
   * Reject & Resubmit, Marketing Science   
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a>
