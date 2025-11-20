@@ -34,6 +34,8 @@ Education
 Scientific Articles
 ======
 
+* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps" with Louis-Daniel Pape, 2025, accepted at Marketing Science
+  
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025, accepted at Management Science
  
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024, Management Science
