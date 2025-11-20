@@ -11,6 +11,7 @@ Scientific Articles
   * Accepted, Marketing Science
   * <a href="https://www.cresse.info/wp-content/uploads/2025/09/CRESSE_CCIA_AWARDS_2025_v1.pdf">"CRESSE Best Paper Awards for Young Researchers"</a> 
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/competition-only-one-click-away-digital-markets-act-impact-google">"CESifo Working Paper No. 11226, 2024"</a>
+  * Media coverage: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">"The Conversation"</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">"Forbes"</a>, <a href="https://www.accc.gov.au/system/files/google-submission-dpsi.pdf">"Google's Response to the Australian Competition and Consumer Commission's Digital Platform Services Inquiry"</a>
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025
   * Accepted, Management Science 
