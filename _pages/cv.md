@@ -34,7 +34,7 @@ Education
 Scientific Articles
 ======
 
-* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps" with Louis-Daniel Pape, 2025, accepted at Marketing Science
+* "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps" with Louis-Daniel Pape, 2026, Marketing Science
   
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025, accepted at Management Science
  
