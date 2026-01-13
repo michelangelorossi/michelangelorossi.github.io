@@ -7,27 +7,28 @@ author_profile: true
 
 Scientific Articles
 -----
+
+* "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2026
+  * Accepted, Management Science 
+  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
+  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
+
 * "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps", with Louis-Daniel Pape, 2026
   * Marketing Science, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0159">Forthcoming</a>
   * <a href="https://www.cresse.info/wp-content/uploads/2025/09/CRESSE_CCIA_AWARDS_2025_v1.pdf">"CRESSE Best Paper Awards for Young Researchers"</a> 
   * Media coverage: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">"The Conversation"</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">"Forbes"</a>, <a href="https://www.accc.gov.au/system/files/google-submission-dpsi.pdf">"Google's Response to the Australian Competition and Consumer Commission's Digital Platform Services Inquiry"</a>
-
-* "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2025
-  * Accepted, Management Science 
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
-  * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
-  
-* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2024
+ 
+* "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2026 
+  * Marketing Science (Special Section on DEI), <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">45(1):108-122</a>
+  * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
+  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"Market Watch"</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Harvard Business Review"</a>
+ 
+* "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings" with Tommaso Bondi and Ryan Stevens, 2025
   * Management Science, <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03281">71(8):7200-7222</a>
   * Extended abstract published in Proceedings of the 24th ACM Conference on Economics and Computation (EC '23). Association for Computing Machinery, New York, NY, USA, 297. <a href="https://dl.acm.org/doi/10.1145/3580507.3597751">"https://doi.org/10.1145/3580507.3597751"</a>
   * Media coverage: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">"Cornell Chronicle"</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">"Harvard Business Review"</a>
   
-* "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2024 
-  * Marketing Science (Special Section on DEI), <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">Forthcoming</a>
-  * <a href="https://www.nber.org/papers/w30344">"NBER Working Paper No. 30344, 2022"</a>
-  * Media coverage: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">"Market Watch"</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">"Harvard Business Review"</a>
-
-* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2023
+* "Competition and Reputation in an Online Marketplace: Evidence from Airbnb", 2024
   * Management Science, <a href="https://doi.org/10.1287/mnsc.2023.4758">70(3):1357-1373</a>
   * CRESSE & CPI Awards for Young Researchers - <a href="https://ccianet.org/news/2021/09/ccia-sponsors-an-award-at-the-cresse-conference/">"Best Digital Economy Paper by the CCIA"</a>
   * Nominated for the <a href="https://awards.concurrences.com/en/awards/2024/academic-articles/competition-and-reputation-in-an-online-marketplace-evidence-from-airbnb">"Antitrust Writing Awards 2024"</a>
