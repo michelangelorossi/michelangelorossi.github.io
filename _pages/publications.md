@@ -35,6 +35,9 @@ Scientific Articles
   
 Working Papers
 -----
+* <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">"Online Reviews: Information Content, Biases, and Platform Design"</a>, with Tommaso Bondi, 2026 (Current Draft)
+  * <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">"CESifo Working Paper No. 12427, 2026"</a>
+
 * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</a>, with Chiara Belletti and Elizaveta Pronkina, 2024 (Current Draft)
   * <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">"CESifo Working Paper No. 11253, 2024"</a>
 
@@ -49,7 +52,6 @@ Work in Progress
 -----
 
 * "When Wages Rise, Do Algorithms React? Uber’s Response to Minimum Earnings Rules", with Louis-Daniel Pape
-* "Online Reviews: Information Content, Biases, and Platform Design", with Tommaso Bondi
 
 
 Chapters and Media
