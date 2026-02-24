@@ -47,6 +47,8 @@ Scientific Articles
 Teaching
 ======
 
+* Marketing Management, Grande Ecole - Master in Management, HEC Paris, 2026 - present
+* 
 * Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - 2025
 
 * E-commerce, Master IREN (Network Industries and the Digital Economy), 2021- 2025
