@@ -8,7 +8,7 @@ author_profile: true
 Scientific Articles
 -----
 
-* "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2026
+* "Quality Disclosures and Disappointment: Evidence from the Academy Nominations" with Felix Schleef, 2026
   * Management Science, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.09016">Forthcoming</a> 
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
   * Media coverage: <a href="https://www.hec.edu/en/dare/brands-behaviors/when-oscar-nominations-make-audiences-harsher">"HEC Media Hub"</a>
