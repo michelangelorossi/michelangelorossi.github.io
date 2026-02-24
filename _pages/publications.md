@@ -9,14 +9,14 @@ Scientific Articles
 -----
 
 * "Quality Disclosures and Disappointment: Evidence from the Academy Awards" with Felix Schleef, 2026
-  * Accepted, Management Science 
-  * <a href="https://www.cesifo.org/en/publications/2024/working-paper/quality-disclosures-and-disappointment-evidence-academy-nominations">"CESifo Working Paper No. 11573, 2024"</a>
+  * Management Science, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.09016">Forthcoming</a> 
   * Extended abstract published in Proceedings of the 22nd ACM Conference on Economics and Computation (EC '21). Association for Computing Machinery, New York, NY, USA, 790–791. <a href="https://dl.acm.org/doi/10.1145/3465456.3467573">"https://doi.org/10.1145/3465456.3467573"</a>
+  * Media coverage: <a href="https://www.hec.edu/en/dare/brands-behaviors/when-oscar-nominations-make-audiences-harsher">"HEC Media Hub"</a>
 
 * "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps", with Louis-Daniel Pape, 2026
   * Marketing Science, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0159">Forthcoming</a>
   * <a href="https://www.cresse.info/wp-content/uploads/2025/09/CRESSE_CCIA_AWARDS_2025_v1.pdf">"CRESSE Best Paper Awards for Young Researchers"</a> 
-  * Media coverage: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">"The Conversation"</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">"Forbes"</a>, <a href="https://www.accc.gov.au/system/files/google-submission-dpsi.pdf">"Google's Response to the Australian Competition and Consumer Commission's Digital Platform Services Inquiry"</a>
+  * Media coverage: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">"The Conversation"</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">"Forbes"</a>, <a href="https://www.accc.gov.au/system/files/google-submission-dpsi.pdf">"Google's Response to the Australian Competition and Consumer Commission's Digital Platform Services Inquiry"</a>, <a href="https://platformpapers.substack.com/p/is-competition-really-only-one-click">"Platform Papers Blog"</a>
  
 * "The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic" with Michael Luca and Elizaveta Pronkina, 2026 
   * Marketing Science (Special Section on DEI), <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">45(1):108-122</a>
