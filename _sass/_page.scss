@@ -374,6 +374,83 @@
 
 
 /*
+   Paper entry two-column layout
+   ========================================================================== */
+
+.paper-entry {
+  display: flex;
+  gap: 1.5em;
+  margin-bottom: 1.8em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  .paper-meta {
+    flex: 0 0 60%;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .paper-abstract {
+    flex: 0 0 36%;
+    font-size: 0.85em;
+    font-style: italic;
+    color: mix(#fff, $gray, 15%);
+    border-left: 2px solid $border-color;
+    padding-left: 1em;
+    align-self: flex-start;
+  }
+
+  @include breakpoint(max-width $medium) {
+    flex-direction: column;
+
+    .paper-meta,
+    .paper-abstract {
+      flex: none;
+    }
+
+    .paper-abstract {
+      border-left: none;
+      border-top: 1px solid $border-color;
+      padding-left: 0;
+      padding-top: 0.6em;
+    }
+  }
+}
+
+
+/*
+   News timeline
+   ========================================================================== */
+
+.news-timeline {
+  margin-bottom: 1.5em;
+}
+
+.news-item {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 0.6em;
+  font-size: 0.95em;
+
+  .news-date {
+    flex: 0 0 3.5em;
+    font-weight: bold;
+    color: $gray;
+  }
+
+  .news-text {
+    flex: 1;
+  }
+}
+
+
+/*
    Related
    ========================================================================== */
 

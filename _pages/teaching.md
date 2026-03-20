@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* Marketing Management, HEC Paris, 2026 - present
 * Digital Economics, Master in Economics, Institut Polytechnique de Paris, 2020 - 2025
 * E-commerce, Master IREN (Network Industries and the Digital Economy), 2021 - 2025
 * Sharing Economy, Ecole Polytechnique, 2022 - 2025 
