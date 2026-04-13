@@ -16,7 +16,7 @@ Scientific Articles
     Media: <a href="https://www.hec.edu/en/dare/brands-behaviors/when-oscar-nominations-make-audiences-harsher">HEC Media Hub</a></p>
   </div>
   <div class="paper-abstract">
-    Oscar nominations raise audience expectations, causing nominated films to receive harsher user ratings on review platforms—a disappointment effect driven by the gap between expected and experienced quality.
+    Oscar nominations raise audience expectations, causing nominated films to receive harsher user ratings on review platforms: a disappointment effect driven by the gap between expected and experienced quality.
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Scientific Articles
     Media: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">The Conversation</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">Forbes</a>, <a href="https://platformpapers.substack.com/p/is-competition-really-only-one-click">Platform Papers</a></p>
   </div>
   <div class="paper-abstract">
-    We study the DMA's requirement for Google Maps to offer rival navigation apps, finding that the default route choice architecture substantially shapes consumer behavior—and that mandatory interoperability can improve welfare.
+    We study the impact of the DMA on user search behavior and traffic to online mapping services, focusing on recent changes to Google’s search results page. In January 2024, Google altered the display of location-based queries for EU users by removing clickable maps and direct links to Google Maps. Our findings indicate that the DMA had weak competitive effects, highlighting Google Maps’ dominance in a market where alternatives remain limited.
   </div>
 </div>
 
@@ -40,7 +40,7 @@ Scientific Articles
     Media: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">Market Watch</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">Harvard Business Review</a></p>
   </div>
   <div class="paper-abstract">
-    We document a sharp rise in discrimination against Asian-American Airbnb hosts during COVID-19, showing that pandemic-driven scapegoating translated into measurable declines in bookings—evidence that social shocks can reshape marketplace discrimination.
+    We document a sharp rise in discrimination against Asian-American Airbnb hosts during COVID-19, showing that pandemic-driven scapegoating translated into measurable declines in bookings. This is evidence that social shocks can reshape marketplace discrimination.
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Scientific Articles
     Media: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">Cornell Chronicle</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">Harvard Business Review</a></p>
   </div>
   <div class="paper-abstract">
-    Highly selective ("picky") reviewers rate products more harshly, and as a platform matures and attracts more expert reviewers, even high-quality products can see their average ratings decline—a systematic reversal driven by reviewer composition.
+    We study the impact of consumer heterogeneity on online ratings. Consumers differ in their experience, which can affect both their choices and ratings. Thus, biases in average ratings can arise when the opinions of experienced and novice users are aggregated.
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Scientific Articles
     Nominated: <a href="https://awards.concurrences.com/en/awards/2024/academic-articles/competition-and-reputation-in-an-online-marketplace-evidence-from-airbnb">Antitrust Writing Awards 2024</a></p>
   </div>
   <div class="paper-abstract">
-    Increased local competition on Airbnb strengthens hosts' incentives to invest in reputation, with competitive pressure shaping quality provision in a way that benefits consumers in peer-to-peer marketplaces.
+    How does competition affect the role of reputation in encouraging sellers to exert effort? More competition disciplines sellers, but at the same time, it erodes reputational premia. This paper identifies whether one effect dominates the other using data from Airbnb. I identify a negative causal effect of the number of competitors on ratings about hosts’ effort.
   </div>
 </div>
 
