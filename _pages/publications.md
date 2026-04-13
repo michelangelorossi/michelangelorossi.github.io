@@ -74,7 +74,8 @@ Working Papers
 <div class="paper-entry">
   <div class="paper-meta">
     <p><a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design"><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong></a> with Tommaso Bondi, 2026<br>
-      Accepted, Marketing Letters
+    Accepted, <em>Marketing Letters</em>
+    
     <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">CESifo Working Paper No. 12427</a></p>
   </div>
   <div class="paper-abstract">
