@@ -75,8 +75,7 @@ Working Papers
   <div class="paper-meta">
     <p><a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design"><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong></a> with Tommaso Bondi, 2026<br>
     Accepted, <em>Marketing Letters</em>
-    
-    <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">CESifo Working Paper No. 12427</a></p>
+   <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">CESifo Working Paper No. 12427</a></p>
   </div>
   <div class="paper-abstract">
     We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
