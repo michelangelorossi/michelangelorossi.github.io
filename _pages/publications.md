@@ -9,15 +9,6 @@ Scientific Articles
 -----
 
 <div class="paper-entry">
-<div class="paper-meta">
-    <p><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong> with Tommaso Bondi, 2026<br>
-    <em>Marketing Letters</em>, <a href="https://doi.org/10.1007/s11002-026-09819-4">37, 24</a><br>
-  <div class="paper-abstract">
-    We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
-  </div>
-</div>
-
-<div class="paper-entry">
   <div class="paper-meta">
     <p><strong>"Quality Disclosures and Disappointment: Evidence from the Academy Nominations"</strong> with Felix Schleef, 2026<br>
     <em>Management Science</em>, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.09016">Forthcoming</a><br>
@@ -40,6 +31,16 @@ Scientific Articles
     We study the impact of the DMA on user search behavior and traffic to online mapping services, focusing on recent changes to Google’s search results page. In January 2024, Google altered the display of location-based queries for EU users by removing clickable maps and direct links to Google Maps. Our findings indicate that the DMA had weak competitive effects, highlighting Google Maps’ dominance in a market where alternatives remain limited.
   </div>
 </div>
+
+<div class="paper-entry">
+<div class="paper-meta">
+    <p><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong> with Tommaso Bondi, 2026<br>
+    <em>Marketing Letters</em>, <a href="https://doi.org/10.1007/s11002-026-09819-4">37, 24</a><br>
+  <div class="paper-abstract">
+    We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
+  </div>
+</div>
+
 
 <div class="paper-entry">
   <div class="paper-meta">
