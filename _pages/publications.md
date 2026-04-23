@@ -34,6 +34,16 @@ Scientific Articles
 
 <div class="paper-entry">
   <div class="paper-meta">
+    <p><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong> with Tommaso Bondi, 2026<br>
+    <em>Marketing Letters</em>, <a href="https://doi.org/10.1007/s11002-026-09819-4">37, 24</a><br>
+  </div>
+  <div class="paper-abstract">
+     We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-meta">
     <p><strong>"The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb during the Pandemic"</strong> with Michael Luca and Elizaveta Pronkina, 2026<br>
     <em>Marketing Science</em> (Special Section on DEI), <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2023.0112">45(1):108–122</a><br>
     <a href="https://www.nber.org/papers/w30344">NBER Working Paper No. 30344</a><br>
