@@ -9,6 +9,15 @@ Scientific Articles
 -----
 
 <div class="paper-entry">
+<div class="paper-meta">
+    <p><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong> with Tommaso Bondi, 2026<br>
+    <em>Marketing Letters</em>, <a href="https://doi.org/10.1007/s11002-026-09819-4">37, 24</a><br>
+  <div class="paper-abstract">
+    We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
+  </div>
+</div>
+
+<div class="paper-entry">
   <div class="paper-meta">
     <p><strong>"Quality Disclosures and Disappointment: Evidence from the Academy Nominations"</strong> with Felix Schleef, 2026<br>
     <em>Management Science</em>, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.09016">Forthcoming</a><br>
@@ -70,17 +79,6 @@ Scientific Articles
 
 Working Papers
 -----
-
-<div class="paper-entry">
-  <div class="paper-meta">
-    <p><a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design"><strong>"Online Reviews: Information Content, Drivers, and Platform Design"</strong></a> with Tommaso Bondi, 2026<br>
-  Accepted, <em>Marketing Letters</em>   
-   <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/online-reviews-information-content-drivers-and-platform-design">CESifo Working Paper No. 12427</a></p>
-  </div>
-  <div class="paper-abstract">
-    We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
-  </div>
-</div>
 
 <div class="paper-entry">
   <div class="paper-meta">
