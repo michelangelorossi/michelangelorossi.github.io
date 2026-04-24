@@ -37,6 +37,8 @@ Scientific Articles
 * "Quality Disclosures and Disappointment: Evidence from the Academy Nominations" with Felix Schleef, 2026, Management Science
 
 * "Is Competition Only One Click Away? The Digital Markets Act Impact on Google Maps" with Louis-Daniel Pape, 2026, Marketing Science
+
+* "Online Reviews: Information Content, Biases, and Platform Design", with Tommaso Bondi, 2026, Marketing Letters
  
 * "The Good, the Bad and the Picky: Consumer Heterogeneity and the Reversal of Product Ratings", with Tommaso Bondi and Ryan Stevens, 2024, Management Science
 
