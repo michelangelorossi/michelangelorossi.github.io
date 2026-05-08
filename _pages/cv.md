@@ -16,6 +16,7 @@ Academic Positions
 ======
 
 * Associate Professor (untenured) of Marketing at HEC Paris (2025 to present)
+* Hi!PARIS Internal Chair Fellow (2026 - 2029)
 * CESifo Research Network Affiliate (2022 to present)
 * Assistant Professor of Digital Economics at Télécom Paris, CREST, Institut Polytechnique de Paris (2020 to 2025)
 
