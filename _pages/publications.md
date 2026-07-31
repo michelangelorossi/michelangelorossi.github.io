@@ -5,6 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
+Working Papers
+-----
+
+<div class="paper-entry">
+  <div class="paper-meta">
+    <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5642430"><strong>"Cleanin' It Up: Unshrouding Hidden Fees on a Peer-to-Peer Platform"</strong></a> with Kevin Tran, Leonardo Madio, and Mark J. Tremblay, 2026<br>
+    <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">CESifo Working Paper No. 11574</a></p>
+  </div>
+  <div class="paper-abstract">
+    Making hidden fees visible informs sellers as well as buyers: after Airbnb displayed fee-inclusive prices to EU users, hosts without cleaning fees found that competing listings were costlier than they appeared and raised nightly rates by about 17%, while fee-charging hosts reduced their fees only modestly.
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-meta">
+    <p><a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf"><strong>"Staying for Discovery, Monetizing Elsewhere: Platform Governance and Complementor Bypassing"</strong></a> with Raphaela Andres, Ambre Elsas-Nicolle and Mark J. Tremblay, 2026<br>
+    <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">ZEW Discussion Paper No. 23-059</a></p>
+  </div>
+  <div class="paper-abstract">
+    When YouTube tightened monetization after the 2017 “Adpocalypse,” exposed creators added member-only content on Patreon and accumulated recurring revenue at a rate about 9% higher, shifting value capture to an auxiliary platform (Patreon) while continuing to rely on YouTube for audience discovery.
+  </div>
+</div>
+
+
+<div class="paper-entry">
+  <div class="paper-meta">
+    <p><a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when"><strong>"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</strong></a> with Chiara Belletti and Elizaveta Pronkina, 2026<br>
+    <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">CESifo Working Paper No. 11253</a></p>
+  </div>
+  <div class="paper-abstract">
+    Reputation disciplines sellers less effectively when market exit approaches: after a Los Angeles regulation forced some Airbnb hosts to anticipate leaving, effort-related ratings declined in their final transactions, especially among hosts with long, strong review histories, and less so where highly rated neighbors maintained competitive pressure.
+  </div>
+</div>
+
 Scientific Articles
 -----
 
@@ -16,7 +50,7 @@ Scientific Articles
     Media: <a href="https://www.hec.edu/en/dare/brands-behaviors/when-oscar-nominations-make-audiences-harsher">HEC Media Hub</a></p>
   </div>
   <div class="paper-abstract">
-    Oscar nominations raise audience expectations, causing nominated films to receive harsher user ratings on review platforms: a disappointment effect driven by the gap between expected and experienced quality.
+    Oscar nominations can raise expectations enough to reduce satisfaction: among viewers with similar pre-nomination tastes, the same film receives lower ratings after being nominated, especially from less experienced viewers, a pattern driven by disappointment rather than a changing audience.
   </div>
 </div>
 
@@ -28,7 +62,7 @@ Scientific Articles
     Media: <a href="https://theconversation.com/google-monopoly-ruling-where-the-tech-giant-goes-from-here-236569">The Conversation</a>, <a href="https://www.forbes.com/councils/forbesagencycouncil/2025/03/05/the-impact-of-the-eus-digital-markets-act-on-consumer-search-behavior/">Forbes</a>, <a href="https://platformpapers.substack.com/p/is-competition-really-only-one-click">Platform Papers</a></p>
   </div>
   <div class="paper-abstract">
-    We study the impact of the DMA on user search behavior and traffic to online mapping services, focusing on recent changes to Google’s search results page. In January 2024, Google altered the display of location-based queries for EU users by removing clickable maps and direct links to Google Maps. Our findings indicate that the DMA had weak competitive effects, highlighting Google Maps’ dominance in a market where alternatives remain limited.
+   When the DMA led Google to remove map links from EU search results, searches for "Google Maps" rose by more than 21%, but total visits to Google Maps were unchanged. With no traffic gains for Bing Maps or other rivals, the reform changed access paths rather than competition.
   </div>
 </div>
 
@@ -39,7 +73,7 @@ Scientific Articles
     </p>
   </div>
   <div class="paper-abstract">
-     We develop a framework linking the informational content of reviews to reviewer incentives and platform design, identifying how review system architecture shapes both reviewer behavior and the quality of information aggregated on platforms.
+     A unified framework decomposing online ratings into the stages that generate them, from experienced quality and prior expectations through strategic distortion and selection into reviewing, organizing findings from fake reviews to disappointment effects and clarifying which platform interventions can target which distortions.
   </div>
 </div>
 
@@ -51,7 +85,7 @@ Scientific Articles
     Media: <a href="https://www.marketwatch.com/amp/story/scapegoating-minority-groups-can-shape-markets-asian-american-airbnb-hosts-saw-a-marked-decline-in-bookings-during-the-pandemic-11660576384">Market Watch</a>, <a href="https://hbr.org/2022/10/ensuring-your-products-arent-used-for-discrimination">Harvard Business Review</a></p>
   </div>
   <div class="paper-abstract">
-    We document a sharp rise in discrimination against Asian-American Airbnb hosts during COVID-19, showing that pandemic-driven scapegoating translated into measurable declines in bookings. This is evidence that social shocks can reshape marketplace discrimination.
+   During the COVID-19 pandemic, Airbnb hosts with distinctively Asian names lost about 20% of their guests and US$180–$330 in monthly revenue relative to hosts with distinctively White names, with no comparable decline for Black or Hispanic hosts, showing how rising societal bias can translate into marketplace discrimination.
   </div>
 </div>
 
@@ -63,7 +97,7 @@ Scientific Articles
     Media: <a href="https://news.cornell.edu/stories/2024/12/good-products-can-be-hurt-experts-tough-ratings">Cornell Chronicle</a>, <a href="https://hbr.org/2025/01/research-how-top-reviewers-skew-online-ratings?">Harvard Business Review</a></p>
   </div>
   <div class="paper-abstract">
-    We study the impact of consumer heterogeneity on online ratings. Consumers differ in their experience, which can affect both their choices and ratings. Thus, biases in average ratings can arise when the opinions of experienced and novice users are aggregated.
+    Experienced users select higher-quality movies but rate more harshly than novices, compressing average ratings and penalizing high-quality titles. A simple debiasing algorithm reverses more than 8% of pairwise rankings and aligns ratings more closely with external measures of quality.
   </div>
 </div>
 
@@ -75,40 +109,7 @@ Scientific Articles
     Nominated: <a href="https://awards.concurrences.com/en/awards/2024/academic-articles/competition-and-reputation-in-an-online-marketplace-evidence-from-airbnb">Antitrust Writing Awards 2024</a></p>
   </div>
   <div class="paper-abstract">
-    How does competition affect the role of reputation in encouraging sellers to exert effort? More competition disciplines sellers, but at the same time, it erodes reputational premia. This paper identifies whether one effect dominates the other using data from Airbnb. I identify a negative causal effect of the number of competitors on ratings about hosts’ effort.
-  </div>
-</div>
-
-Working Papers
------
-
-<div class="paper-entry">
-  <div class="paper-meta">
-    <p><a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when"><strong>"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</strong></a> with Chiara Belletti and Elizaveta Pronkina, 2024<br>
-    <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">CESifo Working Paper No. 11253</a></p>
-  </div>
-  <div class="paper-abstract">
-    Reputation incentives break down as service providers approach the end of their platform engagement horizon. We document end-game effects in online rating systems and study the platform design features that mitigate them.
-  </div>
-</div>
-
-<div class="paper-entry">
-  <div class="paper-meta">
-    <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5642430"><strong>"Cleanin' It Up: Unshrouding Hidden Fees on a Peer-to-Peer Platform"</strong></a> with Kevin Tran, Leonardo Madio, and Mark J. Tremblay, 2025<br>
-    <a href="https://www.cesifo.org/en/publications/2024/working-paper/transparency-add-fees-peer-peer-platforms-evidence-airbnb">CESifo Working Paper No. 11574</a></p>
-  </div>
-  <div class="paper-abstract">
-    We study Airbnb's 2022 policy requiring all-inclusive price display and show that unshrouding hidden cleaning fees reshapes host pricing strategies and consumer demand, with implications for platform transparency regulation.
-  </div>
-</div>
-
-<div class="paper-entry">
-  <div class="paper-meta">
-    <p><a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf"><strong>"YouTube Adpocalypse: The YouTubers' Journey from Ad-Based to Patron-Based Revenues"</strong></a> with Raphaela Andres and Mark J. Tremblay, 2023<br>
-    <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">ZEW Discussion Paper No. 23-059</a></p>
-  </div>
-  <div class="paper-abstract">
-    When YouTube tightened ad monetization in 2018, affected creators shifted effort toward Patreon, increasing paid content production by 8% and patron earnings by 14%—documenting how platform governance shocks generate cross-platform complementor responses.
+    Competition disciplines sellers but also erodes the premium generated by a strong reputation. Using a San Francisco regulation that halved the number of Airbnb listings, the paper shows that the second force dominates: hosts facing more competitors receive lower effort-related ratings and respond to guests less promptly.
   </div>
 </div>
 
