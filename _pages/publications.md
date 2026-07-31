@@ -24,7 +24,7 @@ Working Papers
     <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">ZEW Discussion Paper No. 23-059</a></p>
   </div>
   <div class="paper-abstract">
-    When YouTube tightened monetization after the 2017 “Adpocalypse,” exposed creators added member-only content on Patreon and accumulated recurring revenue at a rate about 9% higher, shifting value capture to an auxiliary platform (Patreon) while continuing to rely on YouTube for audience discovery.
+    When YouTube tightened monetization after the 2017 “Adpocalypse”, exposed creators added member-only content on Patreon and accumulated recurring revenue at a rate about 9% higher, shifting value capture to an auxiliary platform (Patreon) while continuing to rely on YouTube for audience discovery.
   </div>
 </div>
 
