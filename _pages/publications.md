@@ -20,8 +20,8 @@ Working Papers
 
 <div class="paper-entry">
   <div class="paper-meta">
-    <p><a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf"><strong>"Staying for Discovery, Monetizing Elsewhere: Platform Governance and Complementor Bypassing"</strong></a> with Raphaela Andres, Ambre Elsas-Nicolle and Mark J. Tremblay, 2026<br>
-    <a href="https://ftp.zew.de/pub/zew-docs/dp/dp23059.pdf">ZEW Discussion Paper No. 23-059</a></p>
+    <p><a href="https://www.zew.de/publikationen/staying-for-discovery-monetizing-elsewhere-platform-governance-and-complementor-bypassing"><strong>"Staying for Discovery, Monetizing Elsewhere: Platform Governance and Complementor Bypassing"</strong></a> with Raphaela Andres, Ambre Elsas-Nicolle and Mark J. Tremblay, 2026<br>
+    <a href="https://www.zew.de/publikationen/staying-for-discovery-monetizing-elsewhere-platform-governance-and-complementor-bypassing">ZEW Discussion Paper No. 26-033</a></p>
   </div>
   <div class="paper-abstract">
     When YouTube tightened monetization after the 2017 “Adpocalypse”, exposed creators added member-only content on Patreon and accumulated recurring revenue at a rate about 9% higher, shifting value capture to an auxiliary platform (Patreon) while continuing to rely on YouTube for audience discovery.
