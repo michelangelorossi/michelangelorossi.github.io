@@ -31,8 +31,8 @@ Working Papers
 
 <div class="paper-entry">
   <div class="paper-meta">
-    <p><a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when"><strong>"Rating Systems and the End-Game Effect: When Reputation Works and When it Doesn't"</strong></a> with Chiara Belletti and Elizaveta Pronkina, 2026<br>
-    <a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when">CESifo Working Paper No. 11253</a></p>
+    <p><a href="https://www.cesifo.org/en/publications/2024/working-paper/rating-systems-and-end-game-effect-when-reputation-works-and-when"><strong>"Five Stars on the Way Out: Reputation and Seller Effort Near Exit"</strong></a> with Chiara Belletti and Elizaveta Pronkina, 2026<br>
+    <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/five-stars-way-out-reputation-and-seller-effort-near-exit">CESifo Working Paper No. 11253</a></p>
   </div>
   <div class="paper-abstract">
     Reputation disciplines sellers less effectively when market exit approaches: after a Los Angeles regulation forced some Airbnb hosts to anticipate leaving, effort-related ratings declined in their final transactions, especially among hosts with long, strong review histories, and less so where highly rated neighbors maintained competitive pressure.
