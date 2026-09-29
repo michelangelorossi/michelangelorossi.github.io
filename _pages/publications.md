@@ -61,21 +61,12 @@ Work in Progress
 </div>
 <div class="paper-entry">
   <div class="paper-meta">
-    <p><strong>"When Wages Rise, Do Algorithms React? Uber's Response to Minimum Earnings Rules"</strong> with Özge Demirci and Louis-Daniel Pape</p>
+    <p><strong>"Reviews as Matchmakers: Dynamic Learning of Product Fit"</strong> with Tommaso Bondi and Lijuan Luo</p>
   </div>
   <div class="paper-abstract">
-    Minimum pay rules set a floor on driver earnings, but the platform retains control of the prices and matching that determine how much work there is. We ask whether Uber's pricing algorithm adjusts in ways that blunt the protection these rules are meant to deliver.
+    Review text helps consumers find products that fit their tastes, but better matching makes each product’s reviewers more alike, narrowing the information available to future buyers. We show that equilibrium matching remains partial because mismatched buyers contribute valuable diversity to reviews, while pooled AI summaries amplify majority bias; patterns in 12.6 million Goodreads reviews are consistent with these mechanisms.
   </div>
 </div>
-<div class="paper-entry">
-  <div class="paper-meta">
-    <p><strong>"Discrimination and Passenger Externalities in Ridesharing Markets"</strong> with Klaus Miller</p>
-  </div>
-  <div class="paper-abstract">
-    A driver who declines a passenger may be acting on his own preferences or anticipating those of the passengers already in the car. Exploiting the sequential formation of shared rides, this project separates taste-based discrimination from beliefs about how passengers will react to one another.
-  </div>
-</div>
-
 
 Scientific Articles
 -----
