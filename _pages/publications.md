@@ -45,14 +45,6 @@ Work in Progress
 
 <div class="paper-entry">
   <div class="paper-meta">
-    <p><strong>"Search After Generative AI: How AI Search Changes Online Information Access"</strong> with Adèle Diehl and Louis-Daniel Pape</p>
-  </div>
-  <div class="paper-abstract">
-    As generative AI is folded into general search engines, answers increasingly arrive without a click. We measure how this reshapes what users search for, how traffic is allocated across the web, and what it implies for the content providers whose material feeds those answers.
-  </div>
-</div>
-<div class="paper-entry">
-  <div class="paper-meta">
     <p><strong>"Platform Steering Through Experimentation"</strong> with Marc Bourreau and Felix Schleef</p>
   </div>
   <div class="paper-abstract">
